@@ -4,7 +4,7 @@
 ![Library](https://img.shields.io/badge/Librosa-Feature_Extraction-orange)
 ![Library](https://img.shields.io/badge/TensorFlow-Deep_Learning-red)
 
-> ** [Click here to read the full Project Report (PDF)](./docs/STMAE_Report_Sebas_Ceren_Mateo.pdf)**
+> ** [Click here to read the full Project Report (PDF)](.REPORT.pdf)**
 
 ## Project Overview
 An end-to-end audio classification pipeline designed to categorize musical tracks from the **FMA-small dataset** into 8 distinct genres (Hip-Hop, Pop, Folk, Experimental, Rock, International, Electronic, Instrumental).
