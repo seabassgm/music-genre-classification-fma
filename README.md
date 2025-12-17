@@ -25,7 +25,7 @@ We implemented and compared four distinct architectures:
 4.  **1D-CNN (Convolutional Neural Network):** Processing raw sequential feature data.
 
 ## Performance & Observations
-* [cite_start]**Best Performers:** The **SVM (RBF)** and **1D-CNN** achieved the most balanced performance[cite: 1806].
+* **Best Performers:** The **SVM (RBF)** and **1D-CNN** achieved the most balanced performance.
 * **Genre Specifics:**
     * **High Accuracy:** *Folk*, *Hip-Hop*, and *International* genres showed high F1-scores due to distinct spectral signatures.
     * [cite_start]**Challenges:** *Pop* and *Experimental* genres showed significant spectral overlap, leading to higher misclassification rates[cite: 1808].
